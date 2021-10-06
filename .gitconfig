@@ -1,0 +1,17 @@
+[user]
+	email = vinicius.aquino@ossystems.com.br
+	name = Vinicius Aquino
+[sendemail]
+	smtpserver = smtp.gmail.com
+	smtpserverport = 587
+	smtpencryption = tls
+	smtpuser = vinicius.aquino@ossystems.com.br
+[color]
+	ui = auto
+[core]
+        editor = emacs
+[alias]
+        co = checkout
+        br = branch
+        ci = commit
+        st = status
